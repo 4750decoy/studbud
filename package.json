@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/4750decoy/studbud/issues"
   },
-  "homepage": "https://github.com/4750decoy/studbud#readme"
+  "homepage": "https://github.com/4750decoy/studbud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
